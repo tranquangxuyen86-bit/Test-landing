@@ -1,0 +1,6 @@
+{
+  "name": "SUTO CARE - Học Viện Dưỡng Sinh Đông Y",
+  "description": "Lớp định hướng nghề dưỡng sinh Đông Y trực tuyến qua Zoom 90 phút - Học Viện SUTO CARE",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
